@@ -18,7 +18,7 @@ The ASCERTAIN dataset is a multimodal repository tailored for personality recogn
 
 ## Problem-Solving Approach 
 Our Approach can be summarized with the following architecture diagram-
-![image](https://user-images.githubusercontent.com/79198655/190871162-e118a57b-b55f-4527-954e-29039675ec69.png)
+![image](AT3NET.png)
 
 ## Results
 We evaluated our approach on Two Datasets (i.e., ASCERTAIN and AMIGOS) using Symbolic Dynamics as a preprocessing approach, and then we used the AT3Net model to evaluate. 
