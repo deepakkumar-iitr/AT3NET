@@ -20,6 +20,7 @@ The ASCERTAIN dataset is a multimodal repository tailored for personality recogn
 ## Resources
 1. CUDA
 2. Tensorflow with GPU Environment
+3. Pandas, Numpy
 
 ## Problem-Solving Approach 
 Our Approach can be summarized with the following architecture diagram-
