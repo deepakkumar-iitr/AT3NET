@@ -5,7 +5,7 @@ Co-authors: Deepak Kumar, Pradeep Singh, Balasubramanian Raman
 ## Contents:
 •	Overview of Project \
 •	Dataset Description \
-•	Dependencies  \
+•	Resources  \
 •	Problem-Solving Approach \
 •	Results  
 
@@ -17,6 +17,9 @@ We have tested our approach on two datasets, AMIGOS and ASCERTAIN. \
 The AMIGOS dataset incorporates multi-modal recordings of participants as they viewed emotional movie segments. Data collection took place in two distinct experimental scenarios: 1)40 participants were exposed to 16 brief emotional video clips, and 2)Participants viewed four extended video segments, with some viewing sessions conducted individually and others in groups. \
 The ASCERTAIN dataset is a multimodal repository tailored for personality recognition, involving data from 58 participants. Each participant was subjected to 36 video clips, each evoking different emotions. The dataset offers diverse modalities, including ECG, GSR, EEG signals, and Facial Landmark Trajectories.
 
+## Resources
+1. CUDA
+2. Tensorflow with GPU Environment
 
 ## Problem-Solving Approach 
 Our Approach can be summarized with the following architecture diagram-
@@ -25,3 +28,7 @@ Our Approach can be summarized with the following architecture diagram-
 ## Results
 We evaluated our approach on Two Datasets (i.e., ASCERTAIN and AMIGOS) using Symbolic Dynamics as a preprocessing approach, and then we used the AT3Net model to evaluate. 
 More details can be found in our manuscript. 
+
+## Acknowledgement
+"AMIGOS: A Dataset for Affect, Personality and Mood Research on Individuals and Groups (PDF)", J.A. Miranda-Correa, M.K. Abadi, N. Sebe, and I. Patras, IEEE Transactions on Affective Computing vol. 12, no. 2, pp. 479-493, 2021. \
+Subramanian, Ramanathan, et al. "ASCERTAIN: Emotion and personality recognition using commercial sensors." IEEE Transactions on Affective Computing 9.2 (2016): 147-160.
