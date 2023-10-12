@@ -1,11 +1,5 @@
 ## All Signals Point to Personality: A Dual-Pipeline LSTM-Attention and Symbolic Dynamics Framework for Predicting Personality Traits from Bioelectrical Signals
-### This repo contains our work which has been accepted at ML-CDS 2022. Proceedings of our work shall be published in conjunction with the proceedings of MICCAI 2022.
 ###Co-authors: Deepak Kumar, Pradeep Singh, Balasubramanian Raman
-
-##There are three folders in the repository with names:
-1. Preprocessing
-2. Models
-3. Symbolic Layer
 
 ## Contents:
 •	Overview of Project 
