@@ -7,7 +7,7 @@ Co-authors: Deepak Kumar, Pradeep Singh, Balasubramanian Raman
 •	Dataset Description \
 •	Dependencies  \
 •	Problem-Solving Approach \
-•	Results   \
+•	Results  
 
 ## Overview of the Project:
 In this work, we present a novel model for personality trait prediction using a dual-pipeline architecture. The model architecture leverages Long Short-Term Memory (LSTM) networks with batch normalization for capturing sequential dependencies in data and incorporates temporal attention heads for feature extraction. By combining these parallel pipelines, our model effectively utilizes both LSTM and attention mechanisms to create a comprehensive representation of input data. The model aims to predict the OCEAN (openness, conscientiousness, extraversion, agreeableness, and neuroticism) traits using physiological signals, including EEG, ECG, and GSR.
