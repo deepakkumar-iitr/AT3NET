@@ -1,6 +1,6 @@
 ## All Signals Point to Personality: A Dual-Pipeline LSTM-Attention and Symbolic Dynamics Framework for Predicting Personality Traits from Bioelectrical Signals
 
-###Co-authors: Deepak Kumar, Pradeep Singh, Balasubramanian Raman
+##Co-authors: Deepak Kumar, Pradeep Singh, Balasubramanian Raman
 
 ## Contents:
 •	Overview of Project 
