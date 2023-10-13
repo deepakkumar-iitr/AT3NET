@@ -14,7 +14,7 @@ In this work, we present a novel model for personality trait prediction using a 
 
 ## Dataset Description:
 We have tested our approach on two datasets, AMIGOS and ASCERTAIN. \
-The AMIGOS dataset incorporates multi-modal recordings of participants as they viewed emotional movie segments. Data collection took place in two distinct experimental scenarios: 1)40 participants were exposed to 16 brief emotional video clips, and 2)Participants viewed four extended video segments, with some viewing sessions conducted individually and others in groups. \
+The AMIGOS dataset incorporates multi-modal recordings of participants as they viewed emotional movie segments. Data collection took place in two distinct experimental scenarios: 1) 40 participants were exposed to 16 brief emotional video clips, and 2) Participants viewed four extended video segments, with some viewing sessions conducted individually and others in groups. \
 The ASCERTAIN dataset is a multimodal repository tailored for personality recognition, involving data from 58 participants. Each participant was subjected to 36 video clips, each evoking different emotions. The dataset offers diverse modalities, including ECG, GSR, EEG signals, and Facial Landmark Trajectories.
 
 ## Resources
