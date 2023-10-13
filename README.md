@@ -23,12 +23,11 @@ The ASCERTAIN dataset is a multimodal repository tailored for personality recogn
 3. Pandas, Numpy
 
 ## Problem-Solving Approach 
-Our Approach can be summarized with the following architecture diagram-
+Our approach can be summarized with the following architecture diagram-
 ![AT3NET_Final](https://github.com/deepakkumar-iitr/AT3NET/assets/107170220/9723394e-6fdd-4334-ab40-4b0cac852dd2)
 
 ## Results
-We evaluated our approach on Two Datasets (i.e., ASCERTAIN and AMIGOS) using Symbolic Dynamics as a preprocessing approach, and then we used the AT3Net model to evaluate. 
-More details can be found in our manuscript. 
+We evaluated our approach on two Datasets (i.e., ASCERTAIN and AMIGOS) using Symbolic Dynamics as a preprocessing approach, and then we used a homegrown AT3Net model for downstream tasks. More details can be found in our manuscript. 
 
 ## Acknowledgement
 "AMIGOS: A Dataset for Affect, Personality and Mood Research on Individuals and Groups (PDF)", J.A. Miranda-Correa, M.K. Abadi, N. Sebe, and I. Patras, IEEE Transactions on Affective Computing vol. 12, no. 2, pp. 479-493, 2021. \
